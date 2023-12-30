@@ -2,11 +2,12 @@
 <?compositeMetadataRepository version='1.0.0'?>
 <repository name='HTTP4e2 1.0.x' type='org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository' version='1.0.0'>
   <properties size='2'>
-    <property name='p2.timestamp' value='1703899954392'/>
+    <property name='p2.timestamp' value='1703900143872'/>
     <property name='p2.atomic.composite.loading' value='false'/>
   </properties>
-  <children size='2'>
+  <children size='3'>
     <child location='../../../releases/1.0.0.202312300121'/>
     <child location='../../../releases/1.0.0.202312300132'/>
+    <child location='../../../releases/1.0.0.202312300135'/>
   </children>
 </repository>
