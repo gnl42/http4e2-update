@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?compositeMetadataRepository version='1.0.0'?>
+<repository name='HTTP4e2 6.0.x' type='org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository' version='1'>
+  <properties size='2'>
+    <property name='p2.timestamp' value='1704058344418'/>
+    <property name='p2.atomic.composite.loading' value='false'/>
+  </properties>
+  <children size='1'>
+    <child location='../../../releases/6.0.0.202312312132'/>
+  </children>
+</repository>
