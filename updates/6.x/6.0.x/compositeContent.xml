@@ -1,0 +1,9 @@
+<?compositeMetadataRepository version='1.0.0'?>
+<repository name='HTTP4e2 6.0.x' type='org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository' version='1.0.0'>
+  <properties size='1'>
+    <property name='p2.timestamp' value='1778376194338'/>
+  </properties>
+  <children size='1'>
+    <child location='../../../releases/6.0.0.202605100123'/>
+  </children>
+</repository>
