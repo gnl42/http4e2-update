@@ -1,0 +1,9 @@
+<?compositeArtifactRepository version='1.0.0'?>
+<repository name='HTTP4e2 6.0.x' type='org.eclipse.equinox.p2.artifact.repository.CompositeArtifactRepository' version='1.0.0'>
+  <properties size='1'>
+    <property name='p2.timestamp' value='1778375160411'/>
+  </properties>
+  <children size='1'>
+    <child location='../../../releases/6.0.0.202605100105'/>
+  </children>
+</repository>
